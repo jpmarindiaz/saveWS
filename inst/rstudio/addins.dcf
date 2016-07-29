@@ -1,0 +1,4 @@
+Name: Save Workspace Variables
+Description: Save Data in Workspace
+Binding: saveWSAddin
+Interactive: true
